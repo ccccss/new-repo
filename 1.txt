@@ -12,7 +12,5 @@ We’re currently focused on software enabled businesses & development shops, wh
 
 We’re bringing intelligence and automation to an otherwise brittle, manual, error-prone and inconsistent pipeline-driven process.
 
-Our team has been helping companies solve these problems since the pre-cloud days. Adam is a GTM veteran with a knack for taking technical products to market at Splunk, Microsoft and FortressIQ. Cameron was the first PM at Zscaler, designed the cloud SDN at Pertino, and started the cloud practices at SecureWorks and Gigamon. Richard, our CTO was an early teammate at Heptio, and personally built and operated the clouds at Walmart, Ford, and more.
-
-We’ve got a few customers taking the first steps with us, we’re learning from their challenges and are excited about how Qleet speeds their delivery, ensures better uptime, and eliminates hundreds of thousands of dollars of ongoing maintenance.
+Our team has been helping companies solve these problems since the pre-cloud days. Adam is a GTM veteran with a knack for taking technical products to market at Splunk, Microsoft and FortressIQ. Cameron was the first PM at Zscaler, designed the cloud SDN at Pertino, and started the cloud practices at SecureWorks and Gigamon. Richard, our CTO was an early teammate at Heptio, and personally built and operated the clouds at Walmart, Ford, and more. We’ve got a few customers taking the first steps with us, we’re learning from their challenges and are excited about how Qleet speeds their delivery, ensures better uptime, and eliminates hundreds of thousands of dollars of ongoing maintenance.
 
