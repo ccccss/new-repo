@@ -1,0 +1,16 @@
+[INTRO – Say ‘thank you’ and add anything appropriate to the conversation that led up to now]
+
+Our short overview is:
+
+Qleet lets companies ship better apps, because Developers no longer have to manage the intricacies of DevOps, or ongoing app maintenance.  With Qleet, devs define their customer needs—like speed, reliability, geography—and Qleet software automatically takes care of all the tooling, infrastructure, and maintenance to continuously meet those goals.
+
+And the more detailed version is:
+
+We’ve built an entirely new way to deploy and maintain apps, that we call an App Delivery Orchestrator.  It abstracts away the complexities of deployment and dependency management so developers can focus on shipping differentiated customer features.
+
+We are currently focused on Software Developers building mission-critical applications, who are making the leap from experimentation into customer-ready deployment, and who traditionally would look to start hiring DevOps teams, to build and manage custom pipelines. 
+
+Unlike those traditional, manual GitOps processes and pipeline-driven toolchains that are brittle, need constant DevOps care and feeding, and require countless domain-specific configuration programming languages, Qleet’s software understands the customer-centric goals of any application, and automatically configures, deploys, and operates cloud infrastructure and dependencies to continuously meet those goals.
+
+Our team knows cloud, DevOps, and GitOps from the earliest days:  [ADAM HERE] Cameron was the first PM at Zscaler, designed the cloud SDN at Pertino, and started the cloud practices at SecureWorks and Gigamon. Our CTO was a founding member of Heptio, and personally built and operated the clouds at Walmart, Ford, and more.  We’ve got a few customers taking the first steps with us, and look forward to learning from their challenges, and how Qleet speeds their delivery, ensures better uptime, and eliminates hundreds of thousands of dollars of ongoing maintenance.
+
